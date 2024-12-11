@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\APSC160\\prelab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC05D7B-563C-432C-A948-F9AF97AA9D81}|prelab5\\prelab5.vcxproj|C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\APSC160\\prelab5\\prelab5\\imageManip.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0AC05D7B-563C-432C-A948-F9AF97AA9D81}|prelab5\\prelab5.vcxproj|solutionrelative:prelab5\\imageManip.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmwin\\Downloads\\imageManip.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\APSC160\\prelab4\\prelab4\\comb.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "comb.c",
+              "DocumentMoniker": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\APSC160\\prelab4\\prelab4\\comb.c",
+              "RelativeDocumentMoniker": "..\\prelab4\\prelab4\\comb.c",
+              "ToolTip": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\APSC160\\prelab4\\prelab4\\comb.c",
+              "RelativeToolTip": "..\\prelab4\\prelab4\\comb.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-27T23:22:53.288Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "imageManip.c",
+              "DocumentMoniker": "C:\\Users\\Dmwin\\Downloads\\imageManip.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\imageManip.c",
+              "ToolTip": "C:\\Users\\Dmwin\\Downloads\\imageManip.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\imageManip.c",
+              "ViewState": "AgIAAMUBAAAAAAAAAAAAAMgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-27T23:59:23.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "imageManip.c",
+              "DocumentMoniker": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\APSC160\\prelab5\\prelab5\\imageManip.c",
+              "RelativeDocumentMoniker": "prelab5\\imageManip.c",
+              "ToolTip": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\APSC160\\prelab5\\prelab5\\imageManip.c",
+              "RelativeToolTip": "prelab5\\imageManip.c",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAwwIIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-27T23:42:49.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Prelab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08F46EB2-77A2-40BB-9EF5-E67ECF2136CF}|Prelab1\\Prelab1.vcxproj|C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Prelab1\\Prelab1\\Prelab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08F46EB2-77A2-40BB-9EF5-E67ECF2136CF}|Prelab1\\Prelab1.vcxproj|solutionrelative:Prelab1\\Prelab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prelab1.cpp",
+              "DocumentMoniker": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Prelab1\\Prelab1\\Prelab1.cpp",
+              "RelativeDocumentMoniker": "Prelab1\\Prelab1.cpp",
+              "ToolTip": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Prelab1\\Prelab1\\Prelab1.cpp",
+              "RelativeToolTip": "Prelab1\\Prelab1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T19:58:59.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

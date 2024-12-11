@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A79FCE1-860A-408B-B09C-FF5CD02B03A4}|Lab1\\Lab1.vcxproj|C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Lab1\\Lab1\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A79FCE1-860A-408B-B09C-FF5CD02B03A4}|Lab1\\Lab1.vcxproj|solutionrelative:Lab1\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Lab1\\Lab1\\FileName.c",
+              "RelativeDocumentMoniker": "Lab1\\FileName.c",
+              "ToolTip": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Lab1\\Lab1\\FileName.c*",
+              "RelativeToolTip": "Lab1\\FileName.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-23T15:01:50.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF620A76-78E4-4611-B628-8FE0FF4D19DA}|Lab2\\Lab2.vcxproj|C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Lab2\\Lab2\\homeGST.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF620A76-78E4-4611-B628-8FE0FF4D19DA}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\homeGST.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF620A76-78E4-4611-B628-8FE0FF4D19DA}|Lab2\\Lab2.vcxproj|C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Lab2\\Lab2\\leapYear.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF620A76-78E4-4611-B628-8FE0FF4D19DA}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\leapYear.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homeGST.c",
+              "DocumentMoniker": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Lab2\\Lab2\\homeGST.c",
+              "RelativeDocumentMoniker": "Lab2\\homeGST.c",
+              "ToolTip": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Lab2\\Lab2\\homeGST.c",
+              "RelativeToolTip": "Lab2\\homeGST.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-30T03:04:01.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "leapYear.c",
+              "DocumentMoniker": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Lab2\\Lab2\\leapYear.c",
+              "RelativeDocumentMoniker": "Lab2\\leapYear.c",
+              "ToolTip": "C:\\Users\\Dmwin\\OneDrive\\Desktop\\cude\\Lab2\\Lab2\\leapYear.c",
+              "RelativeToolTip": "Lab2\\leapYear.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-30T02:12:38.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

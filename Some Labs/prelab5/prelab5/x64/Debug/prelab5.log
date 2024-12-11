@@ -1,0 +1,164 @@
+﻿  imageManip.c
+  statTrack.c
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(112,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(113,5): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(123,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(178,5): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(189,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(192,15): error C2065: 'whichOption': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(198,19): error C2065: 'whichOption': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(202,5): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(213,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(214,13): error C2065: 'userOption': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(214,32): error C2065: 'userOption': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(214,5): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(222,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(225,9): error C2065: 'whichMenu': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(244,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(249,38): error C2065: 'fileName': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(249,46): error C2109: subscript requires array or pointer type
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(254,9): error C2065: 'fileName': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(254,17): error C2109: subscript requires array or pointer type
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(257,5): error C2065: 'fileName': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(257,13): error C2109: subscript requires array or pointer type
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(272,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(279,20): error C2065: 'inFileName': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(279,20): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(279,20): warning C4024: 'fopen': different types for formal and actual parameter 1
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(282,32): error C2065: 'header': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(282,32): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(282,32): warning C4024: 'readHeader': different types for formal and actual parameter 1
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(286,20): error C2065: 'header': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(286,20): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(286,20): warning C4024: 'isBMP': different types for formal and actual parameter 1
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(287,13): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(289,30): error C2065: 'header': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(289,23): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(290,10): error C2065: 'imgWidth': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(290,9): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(290,34): error C2065: 'header': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(290,27): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(291,10): error C2065: 'imgHeight': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(291,9): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(291,35): error C2065: 'header': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(291,28): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(292,32): error C2065: 'header': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(292,25): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(295,13): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(297,20): error C2065: 'imgWidth': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(297,19): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(297,32): error C2065: 'imgHeight': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(297,31): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(301,10): error C2065: 'red': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(301,9): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(301,14): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(302,10): error C2065: 'green': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(302,9): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(302,16): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(303,10): error C2065: 'blue': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(303,9): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(303,15): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,34): error C2065: 'red': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,33): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,34): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,34): warning C4024: 'readRawData': different types for formal and actual parameter 1
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,40): error C2065: 'green': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,39): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,40): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,40): warning C4024: 'readRawData': different types for formal and actual parameter 2
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,48): error C2065: 'blue': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,47): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,48): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,48): warning C4024: 'readRawData': different types for formal and actual parameter 3
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,64): error C2065: 'imgWidth': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(306,63): error C2100: you cannot dereference an operand of type 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(310,9): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(313,9): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(323,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(324,18): error C2065: 'header': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(324,18): warning C4022: 'fread': pointer mismatch for actual parameter 1
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(324,53): error C2065: 'inFile': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(324,53): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(324,53): warning C4024: 'fread': different types for formal and actual parameter 4
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(324,5): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(334,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(335,13): error C2065: 'header': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(335,19): error C2109: subscript requires array or pointer type
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(335,34): error C2065: 'header': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(335,40): error C2109: subscript requires array or pointer type
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(349,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(357,77): error C2065: 'inFile': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(357,77): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(357,77): warning C4024: 'fread': different types for formal and actual parameter 4
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(357,22): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(358,9): error C2065: 'blue': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(358,13): error C2109: subscript requires array or pointer type
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(359,9): error C2065: 'green': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(359,14): error C2109: subscript requires array or pointer type
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(360,9): error C2065: 'red': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(360,12): error C2109: subscript requires array or pointer type
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(363,21): error C2065: 'imgWidth': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(363,33): error C2065: 'imgWidth': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(365,24): error C2065: 'imgWidth': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(366,63): error C2065: 'inFile': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(366,63): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(366,63): warning C4024: 'fread': different types for formal and actual parameter 4
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(366,26): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(370,5): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(385,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(390,21): error C2065: 'fileName': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(390,21): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(390,21): warning C4024: 'fopen': different types for formal and actual parameter 1
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(393,36): error C2065: 'header': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(393,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(393,36): warning C4024: 'writeHeader': different types for formal and actual parameter 1
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(396,30): error C2065: 'header': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(396,23): warning C4312: 'type cast': conversion from 'int' to 'int *' of greater size
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(399,37): error C2065: 'red': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(399,37): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(399,37): warning C4024: 'writeRawData': different types for formal and actual parameter 1
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(399,42): error C2065: 'green': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(399,42): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(399,42): warning C4024: 'writeRawData': different types for formal and actual parameter 2
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(399,49): error C2065: 'blue': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(399,49): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(399,49): warning C4024: 'writeRawData': different types for formal and actual parameter 3
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(399,64): error C2065: 'imgWidth': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(402,9): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(405,9): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(415,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(416,19): error C2065: 'header': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(416,19): warning C4022: 'fwrite': pointer mismatch for actual parameter 1
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(416,54): error C2065: 'outFile': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(416,54): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(416,54): warning C4024: 'fwrite': different types for formal and actual parameter 4
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(416,5): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(430,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(438,39): error C2065: 'blue': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(438,43): error C2109: subscript requires array or pointer type
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(439,40): error C2065: 'green': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(439,45): error C2109: subscript requires array or pointer type
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(440,38): error C2065: 'red': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(440,41): error C2109: subscript requires array or pointer type
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(442,81): error C2065: 'outFile': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(442,81): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(442,81): warning C4024: 'fwrite': different types for formal and actual parameter 4
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(442,25): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(445,21): error C2065: 'imgWidth': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(445,33): error C2065: 'imgWidth': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(447,24): error C2065: 'imgWidth': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(448,67): error C2065: 'outFile': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(448,67): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(448,67): warning C4024: 'fwrite': different types for formal and actual parameter 4
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(448,29): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(452,5): warning C4098: 'rgb2grey': 'void' function returning a value
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(462,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(463,10): error C2065: 'red': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(463,10): warning C4022: 'free': pointer mismatch for actual parameter 1
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(464,10): error C2065: 'green': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(464,10): warning C4022: 'free': pointer mismatch for actual parameter 1
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(465,10): error C2065: 'blue': undeclared identifier
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(465,10): warning C4022: 'free': pointer mismatch for actual parameter 1
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(468,55): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dmwin\OneDrive\Desktop\cude\APSC160\prelab5\prelab5\imageManip.c(99,1): error C1075: '{': no matching token found
+  Generating Code...
