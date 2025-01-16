@@ -1,0 +1,115 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.42.34436.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/dmwin/onedrive/desktop/cude/telemetry/source/watchdog.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "56fb2f761b58034530a4af1aa02927c25dfc1fa0a084eb0d059726d7ba7a8686"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dmwin/onedrive/desktop/cude/telemetry/source/watchdog.h"
+          },
+          "hashes": {
+            "sha-256": "44a65a2b5312340dc86e9929adee25df88972ba7a673cfaaebb53ab8e161be16"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dmwin/onedrive/desktop/cude/telemetry/source/freertos.h"
+          },
+          "hashes": {
+            "sha-256": "03e9c94aba57e3cf7f4f73bc2d3eb4a96ae38f3425eedb5450622ca286475a0b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dmwin/onedrive/desktop/cude/telemetry/source/freertosconfig.h"
+          },
+          "hashes": {
+            "sha-256": "32a62f04675d9e38916dece51cb7523a3e28cf1818d48607ec910902eb758e6c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dmwin/onedrive/desktop/cude/telemetry/source/include/projdefs.h"
+          },
+          "hashes": {
+            "sha-256": "8faf4220ded25b00fd72424a2fa4e63e154713ae7b42f7270f1e3289362a6312"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dmwin/onedrive/desktop/cude/telemetry/source/include/portable.h"
+          },
+          "hashes": {
+            "sha-256": "7ade8f368002778c723b3c4e14084910b7225cd36363ed0c948e9ea36c6f251f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dmwin/onedrive/desktop/cude/telemetry/source/include/deprecated_definitions.h"
+          },
+          "hashes": {
+            "sha-256": "35000a143464bbbd8df7c9a6f066a64598a24da5174a7be33972e62bfbd75f4d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dmwin/onedrive/desktop/cude/telemetry/source/portable/msvc-mingw/portmacro.h"
+          },
+          "hashes": {
+            "sha-256": "75f11a39bd30a8c58ca40dfd4482389cfa439ab133a15f5bd8be2302b46f891f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dmwin/onedrive/desktop/cude/telemetry/source/include/mpu_wrappers.h"
+          },
+          "hashes": {
+            "sha-256": "5014408cc33f0f616215f2b48c67b0d47ccc35bfd5f0044ac653b5bbc6cf5778"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dmwin/onedrive/desktop/cude/telemetry/source/include/task.h"
+          },
+          "hashes": {
+            "sha-256": "cb1b0bbcdc66e39ba3b5a09b3e2829a5d376b8990735980613514903a3c5f493"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/dmwin/onedrive/desktop/cude/telemetry/source/include/list.h"
+          },
+          "hashes": {
+            "sha-256": "dc572f54391c0407fc25db360d912fca9118cddae7bd2e3099eb13f18804e5a9"
+          }
+        }
+      ]
+    }
+  ]
+}

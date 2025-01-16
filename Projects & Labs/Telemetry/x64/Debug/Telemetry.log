@@ -1,0 +1,21 @@
+﻿C:\Users\Dmwin\OneDrive\Desktop\cude\Telemetry\\x64\Debug\command.obj : warning LNK4042: object specified more than once; extras ignored
+C:\Users\Dmwin\OneDrive\Desktop\cude\Telemetry\\x64\Debug\health.obj : warning LNK4042: object specified more than once; extras ignored
+C:\Users\Dmwin\OneDrive\Desktop\cude\Telemetry\\x64\Debug\telemetry.obj : warning LNK4042: object specified more than once; extras ignored
+C:\Users\Dmwin\OneDrive\Desktop\cude\Telemetry\\x64\Debug\watchdog.obj : warning LNK4042: object specified more than once; extras ignored
+C:\Users\Dmwin\OneDrive\Desktop\cude\Telemetry\\x64\Debug\main.obj : warning LNK4042: object specified more than once; extras ignored
+main.obj : error LNK2019: unresolved external symbol "void __cdecl TelemetryTask(void *)" (?TelemetryTask@@YAXPEAX@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      TelemetryTask
+main.obj : error LNK2019: unresolved external symbol "void __cdecl TransmitTask(void *)" (?TransmitTask@@YAXPEAX@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      TransmitTask
+main.obj : error LNK2019: unresolved external symbol "void __cdecl CommandTask(void *)" (?CommandTask@@YAXPEAX@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      CommandTask
+main.obj : error LNK2019: unresolved external symbol "void __cdecl HealthTask(void *)" (?HealthTask@@YAXPEAX@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      HealthTask
+main.obj : error LNK2019: unresolved external symbol "void __cdecl WatchdogTask(void *)" (?WatchdogTask@@YAXPEAX@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      WatchdogTask
+C:\Users\Dmwin\OneDrive\Desktop\cude\Telemetry\x64\Debug\Telemetry.exe : fatal error LNK1120: 5 unresolved externals

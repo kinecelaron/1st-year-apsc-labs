@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Dmwin\OneDrive\Desktop\cude\FreeRTOS_SatelliteProject\FreeRTOS_SatelliteProject\Main.cpp(50,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Users\Dmwin\OneDrive\Desktop\cude\FreeRTOS_SatelliteProject\FreeRTOS_SatelliteProject\Main.cpp(50,16):
+      consider using '%zd' in the format string
+  
+  FreeRTOS_SatelliteProject.vcxproj -> C:\Users\Dmwin\OneDrive\Desktop\cude\FreeRTOS_SatelliteProject\x64\Debug\FreeRTOS_SatelliteProject.exe
